@@ -30,6 +30,6 @@ To run the hello script:
 python scripts/hello.py
 ```
 
-## Addition of Links
+## Addition of Links (solving error in workflow test)
 - Personal Repository: https://github.com/VeraJSolo/hello-gist604b 
 - Assignment Repository: https://github.com/ua-gist604b-f25/m1a3-github-repository-management-VeraJSolo
